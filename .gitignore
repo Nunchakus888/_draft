@@ -10,3 +10,4 @@ docs/_book
 _site
 .deploy_git
 db.json
+public/
