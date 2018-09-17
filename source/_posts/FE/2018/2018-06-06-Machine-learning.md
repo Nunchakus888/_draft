@@ -1,7 +1,7 @@
 layout: post
 title: Machine Learning
 date: 2018-03-02 17:52:00 +0800
-categories: Learning
+categories: ML
 tags: Machine Learning
 location: ShangHai, China 
 

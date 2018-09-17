@@ -2,10 +2,8 @@
 layout: post
 title:  React浅尝～
 date:   2017-06-10
-categories: 
-  - javascript
-  - React
-tags: react
+categories: FE
+tags: JS
 location: ShangHai, China
 description: the notes of basic..
 ---

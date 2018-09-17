@@ -8,3 +8,5 @@ explorations
 docs/_book
 .idea
 _site
+.deploy_git
+db.json

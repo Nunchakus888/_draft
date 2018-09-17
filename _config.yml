@@ -78,6 +78,6 @@ theme: Roidder2.0
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Nunchakus888/nunchakus888.github.io.git
+  repo: git@github.com:Nunchakus888/nunchakus888.github.io.git
   branch: master
   message:

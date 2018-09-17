@@ -2,7 +2,8 @@
 layout: post
 title:  github提交不计入contributions
 date:   2017-10-29 00:40:00 +0800
-categories: diary
+categories: Git
+tags: Git
 location: ShangHai, China
 description: 看着一年365天那么多格子都有commit记录，多有动力😄，
 tail: 

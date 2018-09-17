@@ -2,9 +2,8 @@
 layout: post
 title:  Typescript上手notes..
 date:   2017-06-15
-categories: 
-  - Typescript
-tags: Typescript上手notes
+categories: FE
+tags: TS
 location: ShangHai, China
 description: 用Typescript写起来多爽啊！
 tail: To be continued...

@@ -3,7 +3,7 @@
 layout: post
 title:  2017-09-22最近一段时间的idea
 date:   2017-09-22 21:11:00
-categories: diary
+categories: Diary
 location: ShangHai, China
 description: 
 tail: ...
