@@ -6,7 +6,7 @@
     "version": "3.7.1"
   },
   "scripts": {
-    "start": "npm run theme-ssh && npm i && hexo server -p 8888",
+    "start": "npm run theme-ssh || npm run theme-https && npm i && hexo server -p 8888",
     "writing": "hexo server -p 8888",
     "theme-ssh": "git clone git@github.com:Nunchakus888/Roidder2.0.git themes/Roidder2.0",
     "theme-https": "git clone https://github.com/Nunchakus888/Roidder2.0.git themes/Roidder2.0"
