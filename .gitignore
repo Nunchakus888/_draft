@@ -11,4 +11,4 @@ _site
 .deploy_git
 db.json
 public/
-themes/Roidder2.0
+themes/
